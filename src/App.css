@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,400;1,100;1,700&display=swap');
+
+.App {
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+h1 {
+  color: #000;
+  margin-bottom: 10px;
+  font-family: 'Bigelow Rules', cursive;
+  font-size: 72px;
+  color: #0ccac4
+}
+
+
+
