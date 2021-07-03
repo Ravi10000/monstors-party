@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monstors-party/static/css/main.4eeaa485.chunk.css",
+    "main.js": "/monstors-party/static/js/main.413c94c7.chunk.js",
+    "main.js.map": "/monstors-party/static/js/main.413c94c7.chunk.js.map",
+    "runtime-main.js": "/monstors-party/static/js/runtime-main.da85c6db.js",
+    "runtime-main.js.map": "/monstors-party/static/js/runtime-main.da85c6db.js.map",
+    "static/js/2.d267d70a.chunk.js": "/monstors-party/static/js/2.d267d70a.chunk.js",
+    "static/js/2.d267d70a.chunk.js.map": "/monstors-party/static/js/2.d267d70a.chunk.js.map",
+    "static/js/3.b77ec135.chunk.js": "/monstors-party/static/js/3.b77ec135.chunk.js",
+    "static/js/3.b77ec135.chunk.js.map": "/monstors-party/static/js/3.b77ec135.chunk.js.map",
+    "index.html": "/monstors-party/index.html",
+    "static/css/main.4eeaa485.chunk.css.map": "/monstors-party/static/css/main.4eeaa485.chunk.css.map",
+    "static/js/2.d267d70a.chunk.js.LICENSE.txt": "/monstors-party/static/js/2.d267d70a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da85c6db.js",
+    "static/js/2.d267d70a.chunk.js",
+    "static/css/main.4eeaa485.chunk.css",
+    "static/js/main.413c94c7.chunk.js"
+  ]
+}
